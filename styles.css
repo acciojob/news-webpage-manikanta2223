@@ -7,12 +7,11 @@ body{
 	gap:5px;
 	margin:10px;
 }
-.header{
+header{
 	background-color:#011e29;
 	color:white;
 	padding:10px;
-	display:flex;
-	justify-content:center;
+	text-align:center;
 	margin-bottom:10px;
 }
 .latest-news-section{
