@@ -20,7 +20,8 @@ body{
 	height:200px;
 	background-color:white;
 	padding:10px;
-	border-radius:10px;	
+	border-radius:10px;
+	text-align:center;
 }
 .pictorial-news-section{
 	width:500px;
@@ -35,8 +36,16 @@ body{
 	background-color:white;
 	padding:20px;
 	border-radius:10px;	
+	text-align:center;
 }
-
+.images>img{	
+	display:flex;
+	flex-direction:column;
+	justify-content:center;
+	align-items:center;
+	gap:8px;
+	margin:auto;
+}
 
 
 
